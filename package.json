@@ -1,0 +1,22 @@
+{
+  "name": "omniupdate-asset-migrator",
+  "version": "1.0.0",
+  "description": "Migrates assets from on account to another",
+  "main": "app.js",
+  "scripts": {},
+  "author": "Trevor Sutherland",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevor-sutherland/omniupdate-asset-migrator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/trevor-sutherland/omniupdate-asset-migrator/issues"
+  },
+  "homepage": "https://github.com/trevor-sutherland/omniupdate-asset-migrator#readme"
+}
