@@ -2,9 +2,9 @@ const api_host = 'https://a.cms.omniupdate.com';
 
 const params = new URLSearchParams();
 
-params.append('skin', 'uark');
-params.append('username', 'api_admin');
-params.append('password', 'mikeandtrevorapi2020');
+params.append('skin', '');
+params.append('username', '');
+params.append('password', '');
 
 console.log(params);
 
